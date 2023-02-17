@@ -5,10 +5,10 @@ global $connection;
 echo 'passo21'; 
 
 $host = 'localhost';
-$port = '5432';
-$dbname = 'mydb';
-$username = 'postgres';
-$password = '123456';
+$port = 'xxxxx';
+$dbname = 'xxxxxx';
+$username = 'xxxxxxx';
+$password = 'xxxxxx';
 
 $connection = "host=$host port=$port dbname=$dbname user=$username password=$password";
 
